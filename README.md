@@ -2,7 +2,7 @@
 
 ## Hi, I'm Ruchita 
  I love creating stuff and coding has given me the superpower to make anything out of thin air ✨
-- 🌱 I’m currently learning by projects from TheOdinProject
+- 🌱 I’m currently making projects from TheOdinProject
 - 🤝 I’m looking to collaborate on OpenSource Projects
-
-## 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+<br>
+👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
