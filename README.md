@@ -9,6 +9,13 @@ I simply love building things! Currently into web development and progressing th
 ### My recent blog posts
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://ruchitagosavi.hashnode.dev/crafting-3d-experiences-with-react-three-fiber-core-concepts-and-scene-creation" title="Crafting 3D Experiences with React Three Fiber: Core Concepts and Scene Creation"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1686579545313/04f0b9b4-a3f8-454d-97d8-fa63d841d521.png" alt="Crafting 3D Experiences with React Three Fiber: Core Concepts and Scene Creation" width="250px" align="left" /></a>
+<a href="https://ruchitagosavi.hashnode.dev/crafting-3d-experiences-with-react-three-fiber-core-concepts-and-scene-creation" title="Crafting 3D Experiences with React Three Fiber: Core Concepts and Scene Creation"><strong>Crafting 3D Experiences with React Three Fiber: Core Concepts and Scene Creation</strong></a>
+<div><strong>12 June 2023</strong></div>
+<br/> If you've ever thought of creating those amazing Three.js websites but with the simplicity and familiarity of React, then you're in for a treat. React Three Fiber lets you do just that!
+What is React Three Fiber?
+React Three Fiber is a powerful libra... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ---
