@@ -3,3 +3,10 @@
 ### Hello, I'm Ruchita
 
 I simply love building things! Currently into web development and progressing through TheOdinProject. I also enjoy contributing to open source projects (sees a bug 👀...raises an issue XD). I recently started blogging as well!
+
+---
+
+### My recent blog posts
+
+<!-- HASHNODE_BLOG:START -->
+<!-- HASHNODE_BLOG:END -->
