@@ -1,8 +1,5 @@
-![profile-banner](https://user-images.githubusercontent.com/70577616/170819601-534a5dfa-7427-40b4-84ed-f51a3359eb05.gif)
+![profile-banner](https://github.com/Ruchita1010/Ruchita1010/assets/70577616/d72f40d4-a96d-4ca5-901a-7db44c740e85)
 
-## Hi, I'm Ruchita 
- I love creating stuff and coding has given me the superpower to make anything out of thin air ✨
-- 🌱 I’m currently creating projects from TheOdinProject
-- 🤝 I’m looking to collaborate on OpenSource Projects
-<br>
-👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
+### Hello, I'm Ruchita
+
+I simply love building things! Currently into web development and progressing through TheOdinProject. I also enjoy contributing to open source projects (sees a bug 👀...raises an issue XD). I recently started blogging as well!
