@@ -10,3 +10,12 @@ I simply love building things! Currently into web development and progressing th
 
 <!-- HASHNODE_BLOG:START -->
 <!-- HASHNODE_BLOG:END -->
+
+---
+
+<details>
+<summary>(⊙_⊙)？</summary>
+
+![manga-panel](https://github.com/Ruchita1010/Ruchita1010/assets/70577616/e6577f7b-505c-46bb-a650-9cb259298a33)
+
+</details>
